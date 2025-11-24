@@ -1,0 +1,17 @@
+# Rust
+target/
+Cargo.lock
+
+# IDE / OS
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Credentials (DO NOT upload)
+.env
+*.env
+
+# Redis dump
+dump.rdb
+appendonly.aof
